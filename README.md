@@ -51,4 +51,4 @@ The application shows random English words, and the user needs to enter the corr
 
 ## Author
 
-Alexandra Balinska
+Oleksandra Balinska
